@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: zhangqingq/zhangqingq.github.io
 github_url: https://github.com/zhangqingq
 url: http://www.zhangqingq.com
-enforce_ssl: ityouknow.com
+enforce_ssl: zhangqingq.com
 
 ## Gem
 plugins:
